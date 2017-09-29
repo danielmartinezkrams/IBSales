@@ -1,0 +1,8 @@
+1) A class is a template for a manager, whereas an instance is a specific manager that follows the template.
+2) Managers, office staff, and sales personnel can all inherit from a Person class because they all share certain characteristics. Specific products can inherit from a general product structure.
+3) A library is a general structure which is made to be reused. The company can have a library for the administration program which is reused for each of their locations.
+6) Accessor methods are necessary for the SalesPerson class because the attributes are private.
+8) A negative effect of a future change in the design of the sales object might have on this suite of programs
+9) 102; 2
+13) Changes which would allow the Payroll class to be implemented include changing salesHistory in the SalesPerson class from an array of Sales to an array of arrays of Sales for each month. That way, the Payroll class could access the sales for a specific month and calculate the salary based solely on those sales.
+14) There is polymorphism in the suite of programs in that the SalesPerson class is able to take many inputs and create a SalesPerson for the company, the Sales class adapts to different types of sales entered, and the program itself can be adopted to fit any of the company's locations with ease.
